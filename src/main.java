@@ -9,7 +9,6 @@ public class main {
 
         b.add(new games("Mortal Kombat X", "lupte", 15));
         b.add(new games("CS:GO", "shooter", 0));
-
     }
    // System.out.println(b);
 }
